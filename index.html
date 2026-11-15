@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      document.querySelector('meta[name="color-scheme"]').content = localStorage.getItem("color-scheme") ?? "light dark";
+    } catch (_) {}
+  </script>
+  <title>CRM · Аккаунты и Публикации</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2318181b'/%3E%3Cpath d='M9 21V11h3.5l3.5 5.5L19.5 11H23v10h-3v-5.2L16.5 21h-1L12 15.8V21H9z' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <div class="brand-wrap">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <div class="brand-titles">
+          <h1 id="page-title" class="brand-title">CRM · Реестр аккаунтов</h1>
+          <p id="page-subtitle" class="brand-sub">Все авторы, прямые ссылки на каналы и статистика выложенных видео</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <span id="updated-pill" class="updated-pill" title="Данные синхронизируются автоматически">Загрузка…</span>
+        <button type="button" id="copy-page-link-btn" class="ghost-btn" title="Скопировать ссылку на эту страницу">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+          <span>Ссылка</span>
+        </button>
+        <button type="button" id="theme-toggle-btn" class="icon-btn" aria-label="Переключить тему оформления" title="Переключить светлую / тёмную тему">
+          <span class="theme-opt-dark">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+            <span class="sr-only">Включить тёмную тему</span>
+          </span>
+          <span class="theme-opt-light">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+            <span class="sr-only">Включить светлую тему</span>
+          </span>
+        </button>
+      </div>
+    </header>
+
+    <section class="kpi-grid" aria-label="Сводные показатели">
+      <article class="kpi-card kpi-primary">
+        <div class="kpi-label">Выложено видео всего</div>
+        <div id="kpi-videos-total" class="kpi-value">—</div>
+        <div id="kpi-videos-breakdown" class="kpi-chips"></div>
+      </article>
+
+      <article class="kpi-card">
+        <div class="kpi-label">Активных аккаунтов</div>
+        <div id="kpi-accounts-total" class="kpi-value">—</div>
+        <div id="kpi-accounts-breakdown" class="kpi-chips"></div>
+      </article>
+
+      <article class="kpi-card">
+        <div id="kpi-people-label" class="kpi-label">Людей в работе</div>
+        <div id="kpi-people-total" class="kpi-value">—</div>
+        <div id="kpi-views-note" class="kpi-note">Суммарные данные по всем подключённым каналам</div>
+      </article>
+    </section>
+
+    <section class="toolbar" aria-label="Поиск и фильтры">
+      <div class="search-box">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="search" id="search-input" placeholder="Поиск по человеку, названию канала или @username…" autocomplete="off">
+      </div>
+
+      <div class="toolbar-controls">
+        <div class="plat-pills" role="group" aria-label="Фильтр платформы">
+          <button type="button" class="pill active" data-plat="all">Все</button>
+          <button type="button" class="pill" data-plat="youtube">YouTube</button>
+          <button type="button" class="pill" data-plat="tiktok">TikTok</button>
+          <button type="button" class="pill" data-plat="instagram">Instagram</button>
+        </div>
+
+        <button type="button" id="toggle-all-btn" class="ghost-btn" commandfor="clients-accordion" command="--toggle-all" aria-expanded="false">
+          <span class="expand">Раскрыть все</span>
+          <span class="collapse">Свернуть все</span>
+        </button>
+      </div>
+    </section>
+
+    <main>
+      <section id="clients-accordion" class="accordion" aria-label="Список клиентов и их аккаунтов">
+        <div class="empty-state">Загрузка данных CRM…</div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span id="footer-info">CRM Portal · Автообновление данных</span>
+    </footer>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

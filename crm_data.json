@@ -1,0 +1,1085 @@
+{
+  "generated_at": 1795279677,
+  "public_url": "https://eliseucartaxo4-ui.github.io/media-crm-portal/",
+  "totals": {
+    "people_count": 6,
+    "accounts_count": 90,
+    "videos_total": 3482,
+    "views_total": 369635,
+    "youtube_accounts": 27,
+    "tiktok_accounts": 61,
+    "instagram_accounts": 2,
+    "youtube_videos": 1479,
+    "tiktok_videos": 1576,
+    "instagram_videos": 427
+  },
+  "clients": [
+    {
+      "id": 174,
+      "slug": "denis-ryabtsev",
+      "name": "ДЕНИС РЯБЦЕВ",
+      "accounts_count": 62,
+      "videos_total": 3016,
+      "views_total": 314110,
+      "archived_videos": 955,
+      "by_platform": {
+        "youtube": {
+          "accounts": 20,
+          "videos": 1369,
+          "views": 279227
+        },
+        "tiktok": {
+          "accounts": 40,
+          "videos": 1233,
+          "views": 15695
+        },
+        "instagram": {
+          "accounts": 2,
+          "videos": 414,
+          "views": 19188
+        }
+      },
+      "accounts": [
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Движ",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
+          "last_published_at": 1795274815,
+          "last_video_url": "https://www.youtube.com/shorts/-eLmSx9K-jw",
+          "videos_count": 90,
+          "views_count": 13328
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Угар",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
+          "last_published_at": 1795274940,
+          "last_video_url": "https://www.youtube.com/shorts/rIAXJmAN3v8",
+          "videos_count": 65,
+          "views_count": 20143
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Deniska Moments",
+          "handle": "@den_ryaba_memes",
+          "url": "https://www.youtube.com/@den_ryaba_memes",
+          "last_published_at": 1795276626,
+          "last_video_url": "https://www.youtube.com/shorts/KTto2tJ5BVk",
+          "videos_count": 64,
+          "views_count": 15876
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Denis Ryabcev Шоу",
+          "handle": "@deniska_stream_best",
+          "url": "https://www.youtube.com/@deniska_stream_best",
+          "last_published_at": 1795276585,
+          "last_video_url": "https://www.youtube.com/shorts/WqjT0C0pufs",
+          "videos_count": 59,
+          "views_count": 16065
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ряба Топ",
+          "handle": "@ryabcev_clip_station",
+          "url": "https://www.youtube.com/@ryabcev_clip_station",
+          "last_published_at": 1795276776,
+          "last_video_url": "https://www.youtube.com/shorts/mpibAatm2cs",
+          "videos_count": 59,
+          "views_count": 12069
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Лучшее",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
+          "last_published_at": 1795274483,
+          "last_video_url": "https://www.youtube.com/shorts/P73QKIIdn8k",
+          "videos_count": 58,
+          "views_count": 4689
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@emilyowenn197695",
+          "handle": "@emilyowenn197695",
+          "url": "https://www.tiktok.com/@emilyowenn197695",
+          "last_published_at": 1795276676,
+          "last_video_url": "https://www.tiktok.com/@emilyowenn197695/video/7710654560884247830",
+          "videos_count": 55,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@jenniferedwardya65272069",
+          "handle": "@jenniferedwardya65272069",
+          "url": "https://www.tiktok.com/@jenniferedwardya65272069",
+          "last_published_at": 1795276550,
+          "last_video_url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7710653993403403542",
+          "videos_count": 55,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Денис Рябцев Fan",
+          "handle": "@denis_epic_cuts",
+          "url": "https://www.youtube.com/@denis_epic_cuts",
+          "last_published_at": 1795276791,
+          "last_video_url": "https://www.youtube.com/shorts/HmJGR9ijtIw",
+          "videos_count": 53,
+          "views_count": 30651
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Vibe",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
+          "last_published_at": 1795275041,
+          "last_video_url": "https://www.youtube.com/shorts/rWirYJhddmE",
+          "videos_count": 53,
+          "views_count": 7417
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@alyssajenningsk99556710",
+          "handle": "@alyssajenningsk99556710",
+          "url": "https://www.tiktok.com/@alyssajenningsk99556710",
+          "last_published_at": 1795276867,
+          "last_video_url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7710655384108682518",
+          "videos_count": 53,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@matthewlyncha9815456",
+          "handle": "@matthewlyncha9815456",
+          "url": "https://www.tiktok.com/@matthewlyncha9815456",
+          "last_published_at": 1795276510,
+          "last_video_url": "https://www.tiktok.com/@matthewlyncha9815456/video/7710653845038320918",
+          "videos_count": 51,
+          "views_count": 1
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Denis Ryabcev Cuts",
+          "handle": "@deniska_daily_live",
+          "url": "https://www.youtube.com/@deniska_daily_live",
+          "last_published_at": 1795275471,
+          "last_video_url": "https://www.youtube.com/shorts/F2VlXCou5IQ",
+          "videos_count": 50,
+          "views_count": 3
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Стримы",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
+          "last_published_at": 1795274765,
+          "last_video_url": "https://www.youtube.com/shorts/PQTh6lDYSZw",
+          "videos_count": 50,
+          "views_count": 2570
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@melissahunton354530",
+          "handle": "@melissahunton354530",
+          "url": "https://www.tiktok.com/@melissahunton354530",
+          "last_published_at": 1795276877,
+          "last_video_url": "https://www.tiktok.com/@melissahunton354530/video/7710655407106133270",
+          "videos_count": 48,
+          "views_count": 5
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@thomasbutlerm39360264",
+          "handle": "@thomasbutlerm39360264",
+          "url": "https://www.tiktok.com/@thomasbutlerm39360264",
+          "last_published_at": 1795276721,
+          "last_video_url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7710654753306414358",
+          "videos_count": 47,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@cynthiamyersf070289",
+          "handle": "@cynthiamyersf070289",
+          "url": "https://www.tiktok.com/@cynthiamyersf070289",
+          "last_published_at": 1795276420,
+          "last_video_url": "https://www.tiktok.com/@cynthiamyersf070289/video/7710653433413520662",
+          "videos_count": 46,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@thomasmorenobx13261183",
+          "handle": "@thomasmorenobx13261183",
+          "url": "https://www.tiktok.com/@thomasmorenobx13261183",
+          "last_published_at": 1795277067,
+          "last_video_url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7710656253168454934",
+          "videos_count": 46,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Deniska Стримы",
+          "handle": "@ryaba_gaming_cuts",
+          "url": "https://www.youtube.com/@ryaba_gaming_cuts",
+          "last_published_at": 1795276126,
+          "last_video_url": "https://www.youtube.com/shorts/wps0mDoZIko",
+          "videos_count": 43,
+          "views_count": 29843
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@joshuaharveys8308280",
+          "handle": "@joshuaharveys8308280",
+          "url": "https://www.tiktok.com/@joshuaharveys8308280",
+          "last_published_at": 1795276962,
+          "last_video_url": "https://www.tiktok.com/@joshuaharveys8308280/video/7710655748367289622",
+          "videos_count": 40,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@rachelsmithpb073260",
+          "handle": "@rachelsmithpb073260",
+          "url": "https://www.tiktok.com/@rachelsmithpb073260",
+          "last_published_at": 1795275572,
+          "last_video_url": "https://www.tiktok.com/@rachelsmithpb073260/video/7710649817969511702",
+          "videos_count": 40,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Клипы",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCihLZLylVm5Y3p-CJn8wPsw",
+          "last_published_at": 1795274564,
+          "last_video_url": "https://www.youtube.com/shorts/1OsJj-nXTP4",
+          "videos_count": 38,
+          "views_count": 3136
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@matthewjonesg836824",
+          "handle": "@matthewjonesg836824",
+          "url": "https://www.tiktok.com/@matthewjonesg836824",
+          "last_published_at": 1795277188,
+          "last_video_url": "https://www.tiktok.com/@matthewjonesg836824/video/7710656740450241814",
+          "videos_count": 38,
+          "views_count": 8
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@priscillacalhocb97105718",
+          "handle": "@priscillacalhocb97105718",
+          "url": "https://www.tiktok.com/@priscillacalhocb97105718",
+          "last_published_at": 1795277072,
+          "last_video_url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7710656235493657878",
+          "videos_count": 37,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@tracysheltonjk0085586",
+          "handle": "@tracysheltonjk0085586",
+          "url": "https://www.tiktok.com/@tracysheltonjk0085586",
+          "last_published_at": 1795275961,
+          "last_video_url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7710651474228907286",
+          "videos_count": 37,
+          "views_count": 2
+        },
+        {
+          "platform": "instagram",
+          "display_name": "@n01225485353",
+          "handle": "@n01225485353",
+          "url": "https://www.instagram.com/n01225485353/",
+          "last_published_at": 1795277353,
+          "last_video_url": "https://www.instagram.com/work75/reels/",
+          "videos_count": 37,
+          "views_count": 3553
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@michelleconleybb1395910",
+          "handle": "@michelleconleybb1395910",
+          "url": "https://www.tiktok.com/@michelleconleybb1395910",
+          "last_published_at": 1795276136,
+          "last_video_url": "https://www.tiktok.com/@michelleconleybb1395910/video/7710652224862539030",
+          "videos_count": 36,
+          "views_count": 559
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@unairodero5",
+          "handle": "@unairodero5",
+          "url": "https://www.tiktok.com/@unairodero5",
+          "last_published_at": 1795275031,
+          "last_video_url": "https://www.tiktok.com/@unairodero5/video/7710647363454471438",
+          "videos_count": 36,
+          "views_count": 3318
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Денис Рябцев · Лучшее",
+          "handle": "@den_ryaba_archive",
+          "url": "https://www.youtube.com/@den_ryaba_archive",
+          "last_published_at": 1795276365,
+          "last_video_url": "https://www.youtube.com/shorts/uI8CmeWslK0",
+          "videos_count": 35,
+          "views_count": 10876
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@ashleywilliamsp61599188",
+          "handle": "@ashleywilliamsp61599188",
+          "url": "https://www.tiktok.com/@ashleywilliamsp61599188",
+          "last_published_at": 1795276982,
+          "last_video_url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7710655861600914710",
+          "videos_count": 35,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@victoriameyern6918441",
+          "handle": "@victoriameyern6918441",
+          "url": "https://www.tiktok.com/@victoriameyern6918441",
+          "last_published_at": 1795276460,
+          "last_video_url": "https://www.tiktok.com/@victoriameyern6918441/video/7710653626120801558",
+          "videos_count": 34,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба Live",
+          "handle": "@deniska_clips_hub",
+          "url": "https://www.youtube.com/@deniska_clips_hub",
+          "last_published_at": 1795277163,
+          "last_video_url": "https://www.youtube.com/shorts/rIhw7EEzYmM",
+          "videos_count": 33,
+          "views_count": 110
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@michellemccallvx2849213",
+          "handle": "@michellemccallvx2849213",
+          "url": "https://www.tiktok.com/@michellemccallvx2849213",
+          "last_published_at": 1795276236,
+          "last_video_url": "https://www.tiktok.com/@michellemccallvx2849213/video/7710652672533187862",
+          "videos_count": 33,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@andrewandersonp3470239",
+          "handle": "@andrewandersonp3470239",
+          "url": "https://www.tiktok.com/@andrewandersonp3470239",
+          "last_published_at": 1795275466,
+          "last_video_url": "https://www.tiktok.com/@andrewandersonp3470239/video/7710649344331894019",
+          "videos_count": 31,
+          "views_count": 1
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@crystalwalshgr689907",
+          "handle": "@crystalwalshgr689907",
+          "url": "https://www.tiktok.com/@crystalwalshgr689907",
+          "last_published_at": 1795276236,
+          "last_video_url": "https://www.tiktok.com/@crystalwalshgr689907/video/7710652656619883798",
+          "videos_count": 30,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@charlenecooperud640864",
+          "handle": "@charlenecooperud640864",
+          "url": "https://www.tiktok.com/@charlenecooperud640864",
+          "last_published_at": 1795277258,
+          "last_video_url": "https://www.tiktok.com/@charlenecooperud640864/video/7710657040498134294",
+          "videos_count": 29,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@deniska_vibes_live",
+          "handle": "@deniska_vibes_live",
+          "url": "https://www.tiktok.com/@deniska_vibes_live",
+          "last_published_at": 1795276334,
+          "last_video_url": "https://www.tiktok.com/@deniska_vibes_live/video/7710653080588668182",
+          "videos_count": 28,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@aropokzeropo",
+          "handle": "@aropokzeropo",
+          "url": "https://www.tiktok.com/@aropokzeropo",
+          "last_published_at": 1795274865,
+          "last_video_url": "https://www.tiktok.com/@aropokzeropo/video/7710646659390213389",
+          "videos_count": 27,
+          "views_count": 6
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@austinromeroir0175249",
+          "handle": "@austinromeroir0175249",
+          "url": "https://www.tiktok.com/@austinromeroir0175249",
+          "last_published_at": 1795275381,
+          "last_video_url": "https://www.tiktok.com/@austinromeroir0175249/video/7710648772216245526",
+          "videos_count": 27,
+          "views_count": 1
+        },
+        {
+          "platform": "instagram",
+          "display_name": "@pemokidag774",
+          "handle": "@pemokidag774",
+          "url": "https://www.instagram.com/pemokidag774/",
+          "last_published_at": 1795275240,
+          "last_video_url": "https://www.instagram.com/pemokidag774/reel/DgAj2Z5SE0m/",
+          "videos_count": 27,
+          "views_count": 1794
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@allisondayk389916",
+          "handle": "@allisondayk389916",
+          "url": "https://www.tiktok.com/@allisondayk389916",
+          "last_published_at": 1795276046,
+          "last_video_url": "https://www.tiktok.com/@allisondayk389916/video/7710651842492943638",
+          "videos_count": 26,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@ashleybutleral76989147",
+          "handle": "@ashleybutleral76989147",
+          "url": "https://www.tiktok.com/@ashleybutleral76989147",
+          "last_published_at": 1795275865,
+          "last_video_url": "https://www.tiktok.com/@ashleybutleral76989147/video/7710651077292510486",
+          "videos_count": 25,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@jeremymcmillanq918810",
+          "handle": "@jeremymcmillanq918810",
+          "url": "https://www.tiktok.com/@jeremymcmillanq918810",
+          "last_published_at": 1795276041,
+          "last_video_url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7710651825761832214",
+          "videos_count": 25,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Моменты",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCY5gyRG3_y0RjV9uy6Pvz0w",
+          "last_published_at": 1795274674,
+          "last_video_url": "https://www.youtube.com/shorts/J_q-I5_Mw-Y",
+          "videos_count": 23,
+          "views_count": 2765
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@dotadva218",
+          "handle": "@dotadva218",
+          "url": "https://www.tiktok.com/@dotadva218",
+          "last_published_at": 1795274679,
+          "last_video_url": "https://www.tiktok.com/@dotadva218/video/7710645913387109646",
+          "videos_count": 23,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@user8278593368309",
+          "handle": "@user8278593368309",
+          "url": "https://www.tiktok.com/@user8278593368309",
+          "last_published_at": 1795275229,
+          "last_video_url": "https://www.tiktok.com/@user8278593368309/video/7710648028767456534",
+          "videos_count": 23,
+          "views_count": 2
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@justinbaileyuj701873",
+          "handle": "@justinbaileyuj701873",
+          "url": "https://www.tiktok.com/@justinbaileyuj701873",
+          "last_published_at": 1795275765,
+          "last_video_url": "https://www.tiktok.com/@justinbaileyuj701873/video/7710650641990864131",
+          "videos_count": 22,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@michaelfrankliwo33777259",
+          "handle": "@michaelfrankliwo33777259",
+          "url": "https://www.tiktok.com/@michaelfrankliwo33777259",
+          "last_published_at": 1795275670,
+          "last_video_url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7710650231121104150",
+          "videos_count": 22,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Deniska Шоу",
+          "handle": "@ryaba_cuts_daily",
+          "url": "https://www.youtube.com/@ryaba_cuts_daily",
+          "last_published_at": 1795275755,
+          "last_video_url": "https://www.youtube.com/shorts/v53PAH77rqE",
+          "videos_count": 12,
+          "views_count": 1126
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@jeffreymillertl5058149",
+          "handle": "@jeffreymillertl5058149",
+          "url": "https://www.tiktok.com/@jeffreymillertl5058149",
+          "last_published_at": 1795275665,
+          "last_video_url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7710650201958010134",
+          "videos_count": 12,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@laurenricewu281953",
+          "handle": "@laurenricewu281953",
+          "url": "https://www.tiktok.com/@laurenricewu281953",
+          "last_published_at": 1795275572,
+          "last_video_url": "https://www.tiktok.com/@laurenricewu281953/video/7710649811380309270",
+          "videos_count": 12,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@lauralewisr46484288",
+          "handle": "@lauralewisr46484288",
+          "url": "https://www.tiktok.com/@lauralewisr46484288",
+          "last_published_at": 1795274463,
+          "last_video_url": "https://www.tiktok.com/@lauralewisr46484288/video/7710645049280711958",
+          "videos_count": 11,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ряба Нарезчик",
+          "handle": "@denis_live_moments",
+          "url": "https://www.youtube.com/@denis_live_moments",
+          "last_published_at": 1795250534,
+          "last_video_url": "https://www.youtube.com/shorts/eYnS5toJ1y8",
+          "videos_count": 10,
+          "views_count": 1186
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@patriciagilberti152524",
+          "handle": "@patriciagilberti152524",
+          "url": "https://www.tiktok.com/@patriciagilberti152524",
+          "last_published_at": 1795277502,
+          "last_video_url": "https://www.tiktok.com/@patriciagilberti152524/video/7710658081922764054",
+          "videos_count": 10,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Hub",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCUzIBSQb4xDSxqU0ZHUznwg",
+          "last_published_at": 1795277598,
+          "last_video_url": "https://www.youtube.com/shorts/ogZpVnfg5Ro",
+          "videos_count": 8,
+          "views_count": 163
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | Эфир",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCOqLnWqxP-3Q3xq71Q-YXGw",
+          "last_published_at": 1795277353,
+          "last_video_url": "https://www.youtube.com/shorts/tyINKiZMvBQ",
+          "videos_count": 8,
+          "views_count": 25
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ден Ряба | TV",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCh31hyIH5llp3z2WxYVCZZA",
+          "last_published_at": 1795277597,
+          "last_video_url": "https://www.youtube.com/shorts/FODv3s2mAS4",
+          "videos_count": 7,
+          "views_count": 104
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@angelagarcias74562976",
+          "handle": "@angelagarcias74562976",
+          "url": "https://www.tiktok.com/@angelagarcias74562976",
+          "last_published_at": 1795278760,
+          "last_video_url": "https://www.tiktok.com/@angelagarcias74562976/video/7710658959723482390",
+          "videos_count": 7,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@carldaviss071217",
+          "handle": "@carldaviss071217",
+          "url": "https://www.tiktok.com/@carldaviss071217",
+          "last_published_at": 1795274950,
+          "last_video_url": "https://www.tiktok.com/@carldaviss071217/video/7710647112031128854",
+          "videos_count": 6,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@pemokidag774",
+          "handle": "@pemokidag774",
+          "url": "https://www.tiktok.com/@pemokidag774",
+          "last_published_at": 1795275386,
+          "last_video_url": "https://www.tiktok.com/@pemokidag774/video/7710648765048360215",
+          "videos_count": 6,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@lucasyamassato607",
+          "handle": "@lucasyamassato607",
+          "url": "https://www.tiktok.com/@lucasyamassato607",
+          "last_published_at": 1795278756,
+          "last_video_url": "https://www.tiktok.com/@lucasyamassato607/video/7710658934066974004",
+          "videos_count": 5,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@user1185002629934",
+          "handle": "@user1185002629934",
+          "url": "https://www.tiktok.com/@user1185002629934",
+          "last_published_at": 1795277492,
+          "last_video_url": "https://www.tiktok.com/@user1185002629934/video/7710658009638112532",
+          "videos_count": 5,
+          "views_count": 276
+        }
+      ]
+    },
+    {
+      "id": 3344,
+      "slug": "alex_az",
+      "name": "Alex_az",
+      "accounts_count": 10,
+      "videos_total": 199,
+      "views_total": 7493,
+      "archived_videos": 13,
+      "by_platform": {
+        "youtube": {
+          "accounts": 3,
+          "videos": 76,
+          "views": 3412
+        },
+        "tiktok": {
+          "accounts": 7,
+          "videos": 110,
+          "views": 3981
+        },
+        "instagram": {
+          "accounts": 0,
+          "videos": 13,
+          "views": 100
+        }
+      },
+      "accounts": [
+        {
+          "platform": "youtube",
+          "display_name": "Алекс | av_zh",
+          "handle": "@alex_av_zh",
+          "url": "https://www.youtube.com/@alex_av_zh",
+          "last_published_at": 1791722441,
+          "last_video_url": "https://www.youtube.com/shorts/gXnvVk3htrA",
+          "videos_count": 47,
+          "views_count": 1196
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@ilbasti0",
+          "handle": "@ilbasti0",
+          "url": "https://www.tiktok.com/@ilbasti0",
+          "last_published_at": 1791722542,
+          "last_video_url": "https://www.tiktok.com/@ilbasti0/video/7695389350888082701",
+          "videos_count": 32,
+          "views_count": 3865
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Алекс Рядом | Стримы",
+          "handle": "@alex_ryadom_streams",
+          "url": "https://www.youtube.com/@alex_ryadom_streams",
+          "last_published_at": 1791722436,
+          "last_video_url": "https://www.youtube.com/shorts/ExSB5aQYFd8",
+          "videos_count": 15,
+          "views_count": 2216
+        },
+        {
+          "platform": "youtube",
+          "display_name": "av_zh хайлайты",
+          "handle": "@av_zh_highlights",
+          "url": "https://www.youtube.com/@av_zh_highlights",
+          "last_published_at": 1791722507,
+          "last_video_url": "https://www.youtube.com/shorts/woI_z06KJjk",
+          "videos_count": 14,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@jenniferolivernm0458286",
+          "handle": "@jenniferolivernm0458286",
+          "url": "https://www.tiktok.com/@jenniferolivernm0458286",
+          "last_published_at": 1791819018,
+          "last_video_url": "https://www.tiktok.com/@jenniferolivernm0458286/video/7695803889525820694",
+          "videos_count": 14,
+          "views_count": 116
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@kelseymartinj474132",
+          "handle": "@kelseymartinj474132",
+          "url": "https://www.tiktok.com/@kelseymartinj474132",
+          "last_published_at": 1791795160,
+          "last_video_url": "https://www.tiktok.com/@kelseymartinj474132/video/7695701442132299011",
+          "videos_count": 14,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@stephanierosehw0496064",
+          "handle": "@stephanierosehw0496064",
+          "url": "https://www.tiktok.com/@stephanierosehw0496064",
+          "last_published_at": 1791795140,
+          "last_video_url": "https://www.tiktok.com/@stephanierosehw0496064/video/7695701330114972950",
+          "videos_count": 14,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@kevinsmithu01950313",
+          "handle": "@kevinsmithu01950313",
+          "url": "https://www.tiktok.com/@kevinsmithu01950313",
+          "last_published_at": 1791795255,
+          "last_video_url": "https://www.tiktok.com/@kevinsmithu01950313/video/7695659331773091094",
+          "videos_count": 13,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@heatherharriso53110102",
+          "handle": "@heatherharriso53110102",
+          "url": "https://www.tiktok.com/@heatherharriso53110102",
+          "last_published_at": 1791819028,
+          "last_video_url": "https://www.tiktok.com/@heatherharriso53110102/video/7695803948858494230",
+          "videos_count": 12,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "@alex245e",
+          "handle": "@alex245e",
+          "url": "https://www.tiktok.com/@alex245e",
+          "last_published_at": 1791709024,
+          "last_video_url": "https://www.tiktok.com/@alex245e/video/7695331516011875606",
+          "videos_count": 11,
+          "views_count": 0
+        }
+      ]
+    },
+    {
+      "id": 3347,
+      "slug": "ysakiiigod",
+      "name": "ysakiiigod",
+      "accounts_count": 6,
+      "videos_total": 167,
+      "views_total": 31957,
+      "archived_videos": 0,
+      "by_platform": {
+        "youtube": {
+          "accounts": 1,
+          "videos": 33,
+          "views": 31923
+        },
+        "tiktok": {
+          "accounts": 5,
+          "videos": 134,
+          "views": 34
+        },
+        "instagram": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        }
+      },
+      "accounts": [
+        {
+          "platform": "youtube",
+          "display_name": "ysakiiigod | Эпичные моменты",
+          "handle": "@ysakiiigod_moments",
+          "url": "https://www.youtube.com/@ysakiiigod_moments",
+          "last_published_at": 1795268834,
+          "last_video_url": "https://www.youtube.com/shorts/bkAxSeZAKYQ",
+          "videos_count": 33,
+          "views_count": 31923
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ysakiiigod | Моменты",
+          "handle": "@ysakiiigod_moments",
+          "url": "https://www.tiktok.com/@ysakiiigod_moments",
+          "last_published_at": 1795279150,
+          "last_video_url": "https://www.tiktok.com/@work628/video/7710665184515230998",
+          "videos_count": 29,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ysakiiigod | CS2 Нарезки",
+          "handle": "@ysakiii_cs2_clips",
+          "url": "https://www.tiktok.com/@ysakiii_cs2_clips",
+          "last_published_at": 1795278940,
+          "last_video_url": "https://www.tiktok.com/@work627/video/7710664228067347734",
+          "videos_count": 28,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "YSK | Хайлайты CS2",
+          "handle": "@ysak_highlights_cs",
+          "url": "https://www.tiktok.com/@ysak_highlights_cs",
+          "last_published_at": 1795279278,
+          "last_video_url": "https://www.tiktok.com/@work629/video/7710665707909844246",
+          "videos_count": 27,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ysakiiigod | Стрим Вайб",
+          "handle": "@3i5ep0r17z9e3w0jq8",
+          "url": "https://www.tiktok.com/@3i5ep0r17z9e3w0jq8",
+          "last_published_at": 1795279391,
+          "last_video_url": "https://www.tiktok.com/@work630/video/7710666229102513409",
+          "videos_count": 25,
+          "views_count": 34
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ysakiiigod | Лучшее",
+          "handle": "@wh6b0p33aubl",
+          "url": "https://www.tiktok.com/@wh6b0p33aubl",
+          "last_published_at": 1795279509,
+          "last_video_url": "https://www.tiktok.com/@work631/video/7710666493096119604",
+          "videos_count": 25,
+          "views_count": 0
+        }
+      ]
+    },
+    {
+      "id": 3355,
+      "slug": "suugaarr",
+      "name": "suugaarr",
+      "accounts_count": 6,
+      "videos_total": 99,
+      "views_total": 16075,
+      "archived_videos": 0,
+      "by_platform": {
+        "youtube": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        },
+        "tiktok": {
+          "accounts": 6,
+          "videos": 99,
+          "views": 16075
+        },
+        "instagram": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        }
+      },
+      "accounts": [
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | Хайлайты CS2",
+          "handle": "@mutual.subscriptio94",
+          "url": "https://www.tiktok.com/@mutual.subscriptio94",
+          "last_published_at": 1795269052,
+          "last_video_url": "https://www.tiktok.com/@work646/video/7710621793811287318",
+          "videos_count": 17,
+          "views_count": 4134
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | Лучшее",
+          "handle": "@ssugaaaar_cs2_best",
+          "url": "https://www.tiktok.com/@ssugaaaar_cs2_best",
+          "last_published_at": 1795173830,
+          "last_video_url": "https://www.tiktok.com/@ssugaaaar_cs2_best/video/7710212806058020118",
+          "videos_count": 17,
+          "views_count": 1081
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | CS2 Нарезки",
+          "handle": "@ssugaaaar_cs2_clips",
+          "url": "https://www.tiktok.com/@ssugaaaar_cs2_clips",
+          "last_published_at": 1795268945,
+          "last_video_url": "https://www.tiktok.com/@work644/video/7710621326058343702",
+          "videos_count": 17,
+          "views_count": 7839
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | Моменты",
+          "handle": "@ssugaaaar_moments",
+          "url": "https://www.tiktok.com/@ssugaaaar_moments",
+          "last_published_at": 1795173245,
+          "last_video_url": "https://www.tiktok.com/@ssugaaaar_moments/video/7710210308479913238",
+          "videos_count": 17,
+          "views_count": 1120
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | Стрим Вайб",
+          "handle": "@ssugaaaar_stream_vibe",
+          "url": "https://www.tiktok.com/@ssugaaaar_stream_vibe",
+          "last_published_at": 1795269198,
+          "last_video_url": "https://www.tiktok.com/@work647/video/7710622370045742337",
+          "videos_count": 17,
+          "views_count": 804
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "ssugaaaar | Daily CS2",
+          "handle": "@ssugaaaar_daily",
+          "url": "https://www.tiktok.com/@ssugaaaar_daily",
+          "last_published_at": 1795269311,
+          "last_video_url": "https://www.tiktok.com/@work648/video/7710622934368406792",
+          "videos_count": 14,
+          "views_count": 1097
+        }
+      ]
+    },
+    {
+      "id": 3444,
+      "slug": "ysakiiigod-ne-ks2",
+      "name": "ysakiiigod (не кс2)",
+      "accounts_count": 6,
+      "videos_total": 1,
+      "views_total": 0,
+      "archived_videos": 0,
+      "by_platform": {
+        "youtube": {
+          "accounts": 3,
+          "videos": 1,
+          "views": 0
+        },
+        "tiktok": {
+          "accounts": 3,
+          "videos": 0,
+          "views": 0
+        },
+        "instagram": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        }
+      },
+      "accounts": [
+        {
+          "platform": "youtube",
+          "display_name": "Amelia White",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCZY1S94WKGYJnFX3-bkvOFg",
+          "last_published_at": 1795188696,
+          "last_video_url": "https://www.youtube.com/shorts/lQlc6LEwoGU",
+          "videos_count": 1,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Isabella Rivera",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UChHcQQb7mQnjErYAwNSStpg",
+          "last_published_at": 0,
+          "last_video_url": "",
+          "videos_count": 0,
+          "views_count": 0
+        },
+        {
+          "platform": "youtube",
+          "display_name": "Ruby Thompson",
+          "handle": "",
+          "url": "https://www.youtube.com/channel/UCHIY7jyi6v8lEgaCfO8D42A",
+          "last_published_at": 0,
+          "last_video_url": "",
+          "videos_count": 0,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "emily_robinson40932",
+          "handle": "@emily_robinson40932",
+          "url": "https://www.tiktok.com/@emily_robinson40932",
+          "last_published_at": 0,
+          "last_video_url": "",
+          "videos_count": 0,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "pet.udder8122238",
+          "handle": "@pet.udder8122238",
+          "url": "https://www.tiktok.com/@pet.udder8122238",
+          "last_published_at": 0,
+          "last_video_url": "",
+          "videos_count": 0,
+          "views_count": 0
+        },
+        {
+          "platform": "tiktok",
+          "display_name": "police.musky36637",
+          "handle": "@police.musky36637",
+          "url": "https://www.tiktok.com/@police.musky36637",
+          "last_published_at": 0,
+          "last_video_url": "",
+          "videos_count": 0,
+          "views_count": 0
+        }
+      ]
+    },
+    {
+      "id": 3455,
+      "slug": "akkaunty-f",
+      "name": "Аккаунты Ф",
+      "accounts_count": 0,
+      "videos_total": 0,
+      "views_total": 0,
+      "archived_videos": 0,
+      "by_platform": {
+        "youtube": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        },
+        "tiktok": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        },
+        "instagram": {
+          "accounts": 0,
+          "videos": 0,
+          "views": 0
+        }
+      },
+      "accounts": []
+    }
+  ]
+}
